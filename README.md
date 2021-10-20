@@ -10,3 +10,4 @@ Hello!
 #HACKTOBERFEST2021
 
 Let' hack on this year!
+print("Let's start hacking!");
